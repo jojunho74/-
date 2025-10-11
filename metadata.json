@@ -1,0 +1,7 @@
+{
+  "name": "English Conversation Practice",
+  "description": "An app to practice English conversation with an AI tutor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
